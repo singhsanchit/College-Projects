@@ -1,0 +1,15 @@
+ Calls
+ Temperature
+ _CONST
+ Jan=period(1)
+ Feb=period(2)
+ Mar=period(3)
+ Apr=period(4)
+ May=period(5)
+ Jun=period(6)
+ Jul=period(7)
+ Aug=period(8)
+*Sep=period(9)
+ Oct=period(10)
+ Nov=period(11)
+ Dec=period(12)
